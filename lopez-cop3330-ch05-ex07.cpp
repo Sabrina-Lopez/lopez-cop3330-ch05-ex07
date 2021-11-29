@@ -11,7 +11,7 @@ int main() {
     double a_value; //declare double to hold the a value of the quadratic equation
     double b_value; //declare double to hold the b value of the quadratic equation
     double c_value; //declare double to hold the c value of the quadratic equation
-    double discriminantSolution; //delcare double to hold the result of the discriminant formula
+    double discriminantSolution; //declare double to hold the result of the discriminant formula
 
     //tell the user to input the a value of their quadratic equation
     cout << "Please input the a value of your quadratic equation. \n";
